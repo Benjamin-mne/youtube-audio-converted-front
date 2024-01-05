@@ -33,6 +33,6 @@ Explora el código fuente del backend en el [repositorio de GitHub](https://gith
 ## Aprende más con mi Tutorial Paso a Paso
 Si deseas comprender cómo construimos este cliente o la API desde cero, te invito a leer los artículos detallados en mi blog donde desglosamos cada paso del proceso de desarrollo.
 
-[¡Ver el artículo backend!]()
+[¡Ver el artículo backend!](https://benjamin-delgado-portfolio.netlify.app/posts/youtube-to-mp3-backend/)
 
-[¡Ver el artículo frontend!]()
+[¡Ver el artículo frontend!](https://benjamin-delgado-portfolio.netlify.app/posts/youtube-to-mp3-frontend/)
